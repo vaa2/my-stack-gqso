@@ -1,0 +1,22 @@
+{
+  "name": "my-stack-gqso",
+  "version": "1.0.0",
+  "description": "Exemplo de pilha com JavaScript usando testes em Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaa2/my-stack-gqso.git"
+  },
+  "author": "Vivian",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vaa2/my-stack-gqso/issues"
+  },
+  "homepage": "https://github.com/vaa2/my-stack-gqso#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
